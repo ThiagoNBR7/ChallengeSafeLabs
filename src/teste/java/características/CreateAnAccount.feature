@@ -8,7 +8,7 @@ Feature: Create An Account
     Given since i'm on the registration screen
     When fill the field <emailAddress>
     And click in Create an account
-    And click in Tile Mr or Mrs
+    And click in Title Mr or Mrs
     And fill the fields <firstName> and <lastName>
     And fill the field in <password>
     And select the Date Of Birth
