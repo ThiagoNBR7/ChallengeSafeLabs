@@ -5,7 +5,7 @@ Desafio ISH
 O desafio consiste na especificação de cenários de teste bem como a automação de testes para a plataforma web.
 
 ## 🎯 Objetivos
-  -No site: http://automationpractice.com/
+  - No site: http://automationpractice.com/
  1. Devo Realizar registro.
  2. Devo Conectar-me.
 
