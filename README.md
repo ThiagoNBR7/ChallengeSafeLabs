@@ -36,6 +36,6 @@ Houve falha ao usar alguns elementos, provavelmente por estar desatualizado(site
 
 ## ⚙️ Passo a passo para execução do teste
 
-Para executar os testes basta:
+Para executar o teste basta:
 
 *1. Executar o plugin:* Para executar você deve abrir a pasta src/test/features/ nesta  pasta há diversos arquivos .feature, esses arquivos são executaveis, bastar clicar no runner.
